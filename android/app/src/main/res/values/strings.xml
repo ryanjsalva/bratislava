@@ -1,0 +1,6 @@
+<resources>
+    <string moduleConfig="true" name="reactNativeCodePush_androidDeploymentKey">lc0jJlT5Sh5hqXAZ8x9vAHJca1oD8ee3cd4e-b9b3-4fa0-b4ed-33c12e219ce6</string>
+    <string moduleConfig="true" name="mobileCenterCrashes_whenToSendCrashes">ALWAYS_SEND</string>
+    <string moduleConfig="true" name="mobileCenterAnalytics_whenToEnableAnalytics">ALWAYS_SEND</string>
+    <string name="app_name">bratislava</string>
+</resources>
